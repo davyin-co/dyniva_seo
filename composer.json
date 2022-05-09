@@ -1,7 +1,7 @@
 {
   "name": "davyin/dyniva_seo",
   "description": "Provide Search Engine Optimization (SEO) Core features and settings.",
-  "type": "drupal-module",
+  "type": "drupal-custom-module",
   "homepage": "https://github.com/davyin-co/dyniva_seo",
   "license": "GPL-2.0-or-later",
   "minimum-stability": "dev",

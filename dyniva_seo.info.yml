@@ -1,6 +1,6 @@
 name: "Dyniva SEO"
 description: "Provide Search Engine Optimization (SEO) Core features and settings."
-type: custom-module
+type: module
 core_version_requirement: ^9
 package: Dyniva
 dependencies: 
