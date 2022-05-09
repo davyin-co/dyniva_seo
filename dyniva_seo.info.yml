@@ -1,0 +1,16 @@
+name: "Dyniva SEO"
+description: "Provide Search Engine Optimization (SEO) Core features and settings."
+type: custom-module
+core_version_requirement: ^9
+package: Dyniva
+dependencies: 
+  - rdf
+  - metatag
+  - google_analytics
+  - metatag_verification
+  - pathauto
+  - redirect
+  - redirect_404
+  - redirect_domain
+  - simple_sitemap
+  - script_manager
